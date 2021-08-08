@@ -1,2 +1,2 @@
 # moviestore
-A Simple Desktop application to store and amintain your favourite movie details.
+A Simple Desktop application to store and maintain your favourite movie details.
